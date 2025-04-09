@@ -8,6 +8,7 @@ I'm actively contributing to open source projects, particularly those related to
 
 **Contact Me**
 Feel free to reach out 
-> @beeb90 on Discord
-> @Be3bZilla on X (formerly Twitter)
+-  @beeb90 on Discord
+-  @Be3bZilla on X (formerly Twitter)
+
 
